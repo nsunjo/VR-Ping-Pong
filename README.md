@@ -5,7 +5,7 @@ VR Ping Pong is a table tennis multiplayer VR game created in game engine Unity 
 Game is developed for and tested on Oculus Quest virtual reality device.
 
 * [Project documentation](https://github.com/nsunjo/VR-Ping-Pong/blob/main/Razvoj%20umrezene%20VR%20igre%20tehnicka%20dokumentacija.doc)
-* [Project presentation]
+* [Project presentation](https://github.com/nsunjo/VR-Ping-Pong/blob/main/Razvoj%20umre%C5%BEene%20VR%20igre.pptx)
 * [Demo video](https://www.youtube.com/embed/iWBwQUEmSMs)
 
 ## Installing
