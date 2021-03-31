@@ -14,7 +14,7 @@ This project **requires VR device** such as Oculus Quest.
 
 * Download or clone repository
 * Add project to Unity Hub
-* Run it with Unity
+* Build and run the game on VR device
 
 ## Built With
 
